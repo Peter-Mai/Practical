@@ -1,0 +1,3 @@
+Apple!fruit
+Table!object
+Orange!fruit

@@ -1,2 +1,2 @@
-module random {
+module dictionary {
 }
